@@ -25,6 +25,22 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles">
+    <img src="assets/vehicles-hero.png" width="920" alt="Lunar Vehicles — cars get hurt">
+  </a>
+</p>
+
+<p align="center">
+  <img src="assets/panel-veh-feat.png" width="920" alt="Lunar Vehicles features">
+</p>
+
+<p align="center">
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles">
+    <img src="assets/panel-vehicles.png" width="920" alt="Lunar-Vehicles open source">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes">
     <img src="assets/stash-hero.png" width="920" alt="Lunar Lockers — place it, share it">
   </a>
@@ -58,6 +74,8 @@
   <a href="https://lunarsystems.tebex.store"><img src="https://img.shields.io/badge/Tebex-store-4a90d9?style=flat-square&labelColor=05070a" alt="Tebex"></a>
   &nbsp;
   <a href="https://discord.gg/SAbAys9Rd6"><img src="https://img.shields.io/badge/Discord-join-ffb020?style=flat-square&labelColor=05070a" alt="Discord"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles"><img src="https://img.shields.io/badge/GitHub-vehicles-4a90d9?style=flat-square&labelColor=05070a" alt="Vehicles"></a>
   &nbsp;
   <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes"><img src="https://img.shields.io/badge/GitHub-lockers-e0b43a?style=flat-square&labelColor=05070a" alt="Stashes"></a>
   &nbsp;
