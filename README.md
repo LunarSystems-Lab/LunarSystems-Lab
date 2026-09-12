@@ -21,12 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/shot-board.jpg" width="300" alt="Dispatch board">
-  <img src="assets/shot-radio.jpg" width="300" alt="Radio call card">
-  <img src="assets/shot-els.jpg" width="300" alt="Call queue">
-</p>
-
-<p align="center">
   <img src="assets/panel-live.png" width="920" alt="Live pack features">
 </p>
 
@@ -34,12 +28,6 @@
   <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes">
     <img src="assets/stash-hero.png" width="920" alt="Lunar Lockers — place it, share it">
   </a>
-</p>
-
-<p align="center">
-  <img src="assets/stash-share.png" width="300" alt="Place locker">
-  <img src="assets/stash-empty.png" width="300" alt="Empty lockers">
-  <img src="assets/stash-world.png" width="300" alt="Locker in the world">
 </p>
 
 <p align="center">
