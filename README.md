@@ -1,69 +1,93 @@
 <p align="center">
-  <img src="assets/banner.png" width="920" alt="Lunar Systems — The city runs on this">
+  <a href="https://lunarsystems.tebex.store">
+    <img src="assets/hero.png" width="920" alt="Lunar Systems — The city runs on this">
+  </a>
 </p>
 
 <p align="center">
-  <img src="assets/hud.png" width="920" alt="LS-HOME UK desk live">
-</p>
-
-<p align="center">
-  <img src="assets/panel-desk.png" width="920" alt="The desk — not a reseller">
+  <a href="https://lunarsystems.tebex.store"><img src="assets/btn-store.png" height="32" alt="Store"></a>
+  &nbsp;
+  <a href="https://discord.gg/SAbAys9Rd6"><img src="assets/btn-discord.png" height="32" alt="Discord"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Character"><img src="assets/btn-character.png" height="32" alt="Character"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Clothing"><img src="assets/btn-clothing.png" height="32" alt="Clothing"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles"><img src="assets/btn-vehicles.png" height="32" alt="Vehicles"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes"><img src="assets/btn-stashes.png" height="32" alt="Stashes"></a>
+  &nbsp;
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Backitems"><img src="assets/btn-backitems.png" height="32" alt="Backitems"></a>
 </p>
 
 <p align="center">
   <a href="https://lunarsystems.tebex.store">
-    <img src="assets/shot-main.jpg" width="920" alt="Dispatch and ELS — live pack">
+    <img src="assets/desk.png" width="920" alt="Not a reseller. The person shipping the code.">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LunarSystems-Lab/Lunar-Character">
-    <img src="assets/character-duo.png" width="920" alt="Lunar Character — spawn and apartments">
+  <a href="https://lunarsystems.tebex.store/package/7667448">
+    <img src="assets/dispatch.png" width="920" alt="Lunar Dispatch and ELS — £42 on Tebex">
   </a>
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LunarSystems-Lab/Lunar-Character">
+        <img src="assets/character.png" alt="Lunar Character — slot, spawn, home">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LunarSystems-Lab/Lunar-Clothing">
+        <img src="assets/clothing.png" alt="Lunar Clothing — studio, skin, outfits">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles">
-    <img src="assets/vehicles-hero.png" width="920" alt="Lunar Vehicles — cars get hurt">
+    <img src="assets/vehicles.png" width="920" alt="Lunar Vehicles — cars get hurt">
   </a>
 </p>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes">
+        <img src="assets/stashes.png" alt="Lunar Stashes — place it, share it">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/LunarSystems-Lab/Lunar-Backitems">
+        <img src="assets/backitems.png" alt="Lunar Backitems — on the ped">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes">
-    <img src="assets/stash-hero.png" width="920" alt="Lunar Lockers — place it, share it">
+  <img src="assets/pipeline.png" width="920" alt="Lunar catalog — scripts, not assets">
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/SAbAys9Rd6">
+    <img src="assets/ship.png" width="920" alt="How Lunar ships — Discord, source, idle, updates">
   </a>
-</p>
-
-<p align="center">
-  <img src="assets/panel-catalog.png" width="920" alt="Lunar Systems catalog">
-</p>
-
-<p align="center">
-  <img src="assets/panel-oss-all.png" width="920" alt="Open source on GitHub">
 </p>
 
 <p align="center">
   <a href="https://github.com/LunarSystems-Lab/Lunar-Character">Character</a>
+  ·
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Clothing">Clothing</a>
   ·
   <a href="https://github.com/LunarSystems-Lab/Lunar-Vehicles">Vehicles</a>
   ·
   <a href="https://github.com/LunarSystems-Lab/Lunar-Stashes">Stashes</a>
   ·
   <a href="https://github.com/LunarSystems-Lab/Lunar-Backitems">Backitems</a>
-</p>
-
-<p align="center">
-  <img src="assets/panel-ship.png" width="920" alt="How Lunar ships">
-</p>
-
-<p align="center">
-  <a href="https://lunarsystems.tebex.store"><img src="https://img.shields.io/badge/Tebex-store-4a90d9?style=flat-square&labelColor=05070a" alt="Tebex"></a>
-  &nbsp;
-  <a href="https://discord.gg/SAbAys9Rd6"><img src="https://img.shields.io/badge/Discord-join-ffb020?style=flat-square&labelColor=05070a" alt="Discord"></a>
-  &nbsp;
-  <a href="https://github.com/LunarSystems-Lab/Lunar-Character"><img src="https://img.shields.io/badge/GitHub-character-6aa6e3?style=flat-square&labelColor=05070a" alt="Character"></a>
-</p>
-
-<p align="center">
-  <img src="assets/footer.png" width="920" alt="Lunar Systems footer">
+  ·
+  <a href="https://lunarsystems.tebex.store/package/7667448">Dispatch</a>
 </p>
