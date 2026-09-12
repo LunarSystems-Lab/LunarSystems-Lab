@@ -1,38 +1,40 @@
-<div align="center">
+<p align="center">
+  <img src="assets/banner.png" width="900" alt="Lunar Systems — The city runs on this">
+</p>
 
-<img src="./assets/banner.svg" alt="Lunar Systems — The city runs on this" width="100%" />
+<p align="center">
+  <a href="https://lunarsystems.tebex.store"><img src="https://img.shields.io/badge/Tebex-store-4a90d9?style=flat-square&labelColor=05070a" alt="Tebex"></a>
+  <a href="https://discord.gg/SAbAys9Rd6"><img src="https://img.shields.io/badge/Discord-join-ffb020?style=flat-square&labelColor=05070a" alt="Discord"></a>
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Backitems"><img src="https://img.shields.io/badge/Open%20source-backitems-6aa6e3?style=flat-square&labelColor=05070a" alt="Backitems"></a>
+</p>
 
-<br/>
-
-`LS-HOME` · UK desk · FiveM scripts, not asset dumps
-
-[![Tebex](https://img.shields.io/badge/Tebex-lunarsystems.tebex.store-4a90d9?style=for-the-badge&labelColor=05070a)](https://lunarsystems.tebex.store)
-[![Discord](https://img.shields.io/badge/Discord-join-ffb020?style=for-the-badge&labelColor=05070a)](https://discord.gg/SAbAys9Rd6)
-[![GitHub](https://img.shields.io/badge/Org-LunarSystems--Lab-6aa6e3?style=for-the-badge&labelColor=05070a)](https://github.com/LunarSystems-Lab)
-[![QBCore](https://img.shields.io/badge/Stack-QBCore_%2F_Qbox_%2F_Ox-e8eef6?style=for-the-badge&labelColor=05070a)](https://lunarsystems.tebex.store)
-
-</div>
-
----
-
-### `01` · About the desk
-
-UK-based FiveM shop. I write the resources I sell: jobs, crime, dispatch, vehicle glue, the bits that sit between a stock QBCore box and a city that actually runs.
-
-Built on a live server. Profiled under load. Dropped in your folder as source. Discord if it breaks — not a ticket bot that never reads.
-
-```
-jobs · crime · dispatch · els · vehicles · props
-idle target: 0.00ms   ·   GPL where it must be   ·   no mystery escrow on the open bits
-```
+<p align="center">
+  <b>UK FiveM desk.</b> Jobs. Crime. Dispatch. Source in your folder. Discord if it breaks.
+</p>
 
 ---
 
-### `02` · Open source
+<p align="center">
+  <img src="assets/shot-main.jpg" width="900" alt="Lunar Dispatch & ELS">
+</p>
 
-| Status | Resource | What it is |
-| :---: | --- | --- |
-| **LIVE** | [**Lunar-Backitems**](https://github.com/LunarSystems-Lab/Lunar-Backitems) | Weapons, bags, and gear on the ped. QBCore inventory → GTA models. Client-only. Config is the whole product. |
+<p align="center">
+  <img src="assets/shot-radio.jpg" width="210" alt="Radio">
+  <img src="assets/shot-board.jpg" width="210" alt="Board">
+  <img src="assets/shot-map.jpg" width="210" alt="Map">
+  <img src="assets/shot-els.jpg" width="210" alt="ELS">
+</p>
+
+<p align="center">
+  <a href="https://lunarsystems.tebex.store"><strong>Dispatch &amp; ELS — live on Tebex →</strong></a><br/>
+  Radio board, call stack, synced lights, London tones. GPLv3. QBCore / Qbox.
+</p>
+
+---
+
+## Open source
+
+**[Lunar-Backitems](https://github.com/LunarSystems-Lab/Lunar-Backitems)** — rifles, bags, gear on the ped. Client-only. Config is the product.
 
 ```lua
 ensure qb-core
@@ -40,55 +42,21 @@ ensure qb-inventory
 ensure lunar-backitems
 ```
 
-No SQL. No items to paste. Map stock qb-core names in `config.lua`, hide in vehicles, nudge offsets with `/backedit`.
+## On the bench
 
----
+| | Pack | State |
+| :---: | --- | --- |
+| 01 | [Dispatch & ELS](https://lunarsystems.tebex.store) | **Live** |
+| 02 | Police Job | In build |
+| 03 | Mechanic | In build |
+| 04 | Vehicle Core | In build |
+| 05 | [Back Items](https://github.com/LunarSystems-Lab/Lunar-Backitems) | **Open source** |
+| 06 | Police Tracker | In build |
+| 07–09 | Shops · Cash Truck · Digital Den | In build |
+| 10–11 | Jewelry · Bobcat | Queued |
 
-### `03` · Live on Tebex
-
-[**Dispatch & ELS**](https://lunarsystems.tebex.store) — radio board + call stack, then Lunar ELS on the same pack. Lights, London tones, nearby sync. GPLv3. Vehicles and jobs in config.
-
-<div align="center">
-
-[![Open the store](https://img.shields.io/badge/SEE_THE_LIVE_PACK-lunarsystems.tebex.store-ffb020?style=for-the-badge&labelColor=05070a)](https://lunarsystems.tebex.store)
-
-</div>
-
----
-
-### `04` · On the bench
-
-Scripts. Not assets. Twelve on the desk — one you can buy tonight, the rest in build or queued.
-
-| # | Pack | Lane | State |
-| :---: | --- | --- | --- |
-| 01 | Dispatch & ELS | LEO · Gear | **Live** on Tebex |
-| 02 | Police Job | Duty laptop, AFIS, evidence, fleet, armoury | In build |
-| 03 | Mechanic (Atelier) | Cosmetics, paint, field tablet, ECU | In build |
-| 04 | Vehicle Core | Damage, panels, handling, oil | In build |
-| 05 | Back Items | Visual props on the ped | **Open source** |
-| 06 | Police Tracker | Plant a pinger. Duty units get the ping | In build |
-| 07 | Shop Jobs | Armed till work | In build |
-| 08 | Cash Truck | Groupe Sech route, phone-chip gated | In build |
-| 09 | Digital Den | Grove + Sinner smash | In build |
-| 10 | Jewelry | Vangelico after the low-risk lane | Queued |
-| 11 | Bobcat | The loud one | Queued |
-| 12 | Want it first | Name the desk in Discord | Requests |
-
----
-
-### `05` · How I ship
-
-| 01 · Support | 02 · Source | 03 · Resmon | 04 · Updates |
-| --- | --- | --- | --- |
-| Ping Discord. Don’t wait 6 days on a bot. | Drop-in resources. Config is yours. | Idle isn’t a screenshot. | Changelog when it ships. No v3 rewrite bait. |
-
-<div align="center">
-
-**Same desk.** Store · Discord · this org.
-
-[Tebex](https://lunarsystems.tebex.store) · [Discord](https://discord.gg/SAbAys9Rd6) · [Lunar-Backitems](https://github.com/LunarSystems-Lab/Lunar-Backitems)
-
-<sub>Not affiliated with Rockstar, Take-Two, Cfx.re, or QBCore. UK seller. Tebex takes payment.</sub>
-
-</div>
+<p align="center">
+  <a href="https://lunarsystems.tebex.store">Store</a> ·
+  <a href="https://discord.gg/SAbAys9Rd6">Discord</a> ·
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Backitems">Backitems</a>
+</p>
