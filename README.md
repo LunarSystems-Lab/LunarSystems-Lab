@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/LunarSystems-Lab/Lunar-Character">
-    <img src="assets/character-hero.png" width="920" alt="Lunar Character — slot, spawn, home">
+    <img src="assets/character-duo.png" width="920" alt="Lunar Character — spawn and apartments">
   </a>
 </p>
 
