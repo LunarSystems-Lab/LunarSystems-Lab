@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LunarSystems-Lab/Lunar-Character">
-    <img src="assets/character-hero.png" width="920" alt="Lunar Character — slot, spawn, home">
+  <a href="https://lunarsystems.tebex.store">
+    <img src="assets/shot-main.jpg" width="920" alt="Dispatch and ELS — live pack">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://lunarsystems.tebex.store">
-    <img src="assets/shot-main.jpg" width="920" alt="Dispatch and ELS — live pack">
+  <a href="https://github.com/LunarSystems-Lab/Lunar-Character">
+    <img src="assets/character-hero.png" width="920" alt="Lunar Character — slot, spawn, home">
   </a>
 </p>
 
