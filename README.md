@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=LunarSystems-Lab&label=Profile%20views&color=blue&style=flat" />
 
 <p align="center">
   <a href="https://lunarsystems.tebex.store"><img src="assets/btn-store.png" height="32" alt="Store"></a>
